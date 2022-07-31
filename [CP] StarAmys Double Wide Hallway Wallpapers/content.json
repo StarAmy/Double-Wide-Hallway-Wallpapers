@@ -1,0 +1,238 @@
+{
+	"Format": "1.25.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "Data/AdditionalWallpaperFlooring",
+			"Entries": {
+				"StarAmy.Hallway_Plant": {
+					"ID": "StarAmy.Hallway_Plant",
+					"Texture": "StarAmy.Hallway_Plant/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+				"StarAmy.Hallway_Candles": {
+					"ID": "StarAmy.Hallway_Candles",
+					"Texture": "StarAmy.Hallway_Candles/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+					"StarAmy.Hallway_Plant_Frame": {
+					"ID": "StarAmy.Hallway_Plant_Frame",
+					"Texture": "StarAmy.Hallway_Plant_Frame/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+					"StarAmy.Hallway_Plant_Cuttings": {
+					"ID": "StarAmy.Hallway_Plant_Cuttings",
+					"Texture": "StarAmy.Hallway_Plant_Cuttings/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+					"StarAmy.Hallway_Lantern": {
+					"ID": "StarAmy.Hallway_Lantern",
+					"Texture": "StarAmy.Hallway_Lantern/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+					"StarAmy.Hallway_Flower_Art": {
+					"ID": "StarAmy.Hallway_Flower_Art",
+					"Texture": "StarAmy.Hallway_Flower_Art/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+					"StarAmy.Hallway_Mirror": {
+					"ID": "StarAmy.Hallway_Mirror",
+					"Texture": "StarAmy.Hallway_Mirror/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+					"StarAmy.Hallway_Bouquet": {
+					"ID": "StarAmy.Hallway_Bouquet",
+					"Texture": "StarAmy.Hallway_Bouquet/WallpaperIcon",
+					"IsFlooring": false,
+					"Count": 1
+				},
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Plant/Wallpaper",
+			"FromFile": "assets/Hallway_Plant.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Plant/WallpaperIcon",
+			"FromFile": "assets/Hallway_PlantIcon.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Candles/Wallpaper",
+			"FromFile": "assets/Hallway_Candles.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Candles/WallpaperIcon",
+			"FromFile": "assets/Hallway_CandlesIcon.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Plant_Frame/Wallpaper",
+			"FromFile": "assets/Hallway_Plant_Frame.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Plant_Frame/WallpaperIcon",
+			"FromFile": "assets/Hallway_Plant_FrameIcon.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Plant_Cuttings/Wallpaper",
+			"FromFile": "assets/Hallway_Plant_Cuttings.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Plant_Cuttings/WallpaperIcon",
+			"FromFile": "assets/Hallway_Plant_CuttingsIcon.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Flower_Art/Wallpaper",
+			"FromFile": "assets/Hallway_Flower_Art.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Flower_Art/WallpaperIcon",
+			"FromFile": "assets/Hallway_Flower_ArtIcon.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Lantern/Wallpaper",
+			"FromFile": "assets/Hallway_Lantern.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Lantern/WallpaperIcon",
+			"FromFile": "assets/Hallway_LanternIcon.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Mirror/Wallpaper",
+			"FromFile": "assets/Hallway_Mirror.png",
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Mirror/WallpaperIcon",
+			"FromFile": "assets/Hallway_MirrorIcon.png",
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Bouquet/Wallpaper",
+			"FromFile": "assets/Hallway_Bouquet.png",
+		},
+		{
+			"Action": "Load",
+			"Target": "StarAmy.Hallway_Bouquet/WallpaperIcon",
+			"FromFile": "assets/Hallway_BouquetIcon.png",
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Plant": {
+					"id": "StarAmy.Hallway_Plant",
+					"texturePath": "StarAmy.Hallway_Plant/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Candles": {
+					"id": "StarAmy.Hallway_Candles",
+					"texturePath": "StarAmy.Hallway_Candles/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Plant_Frame": {
+					"id": "StarAmy.Hallway_Plant_Frame",
+					"texturePath": "StarAmy.Hallway_Plant_Frame/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Flower_Art": {
+					"id": "StarAmy.Hallway_Flower_Art",
+					"texturePath": "StarAmy.Hallway_Flower_Art/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Lantern": {
+					"id": "StarAmy.Hallway_Lantern",
+					"texturePath": "StarAmy.Hallway_Lantern/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Plant_Cuttings": {
+					"id": "StarAmy.Hallway_Plant_Cuttings",
+					"texturePath": "StarAmy.Hallway_Plant_Cuttings/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Mirror": {
+					"id": "StarAmy.Hallway_Mirror",
+					"texturePath": "StarAmy.Hallway_Mirror/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+		{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Mirror": {
+					"id": "StarAmy.Hallway_Mirror",
+					"texturePath": "StarAmy.Hallway_Mirror/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+			{
+			"Action": "EditData",
+			"Target": "aedenthorn.CustomWallpaperFramework/dictionary",
+			"Entries": {
+				"StarAmy.Hallway_Bouquet": {
+					"id": "StarAmy.Hallway_Bouquet",
+					"texturePath": "StarAmy.Hallway_Bouquet/Wallpaper",
+					"width": 2,
+				},
+			}
+		},
+	]
+}
